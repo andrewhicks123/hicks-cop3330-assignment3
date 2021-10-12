@@ -1,0 +1,12 @@
+@startuml
+class ex43.App {
++ {static} void main(String[])
+}
+class ex43.Functions {
+~ {static} String setPath(String)
+~ {static} void makeDir(String)
+~ {static} void html(String,String,String)
+~ {static} void css(char,String)
+~ {static} void js(char,String)
+}
+@enduml

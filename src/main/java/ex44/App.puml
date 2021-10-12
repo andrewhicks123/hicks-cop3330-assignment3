@@ -1,0 +1,8 @@
+@startuml
+class ex44.Functions {
+~ {static} boolean checkFlag(int)
+}
+class ex44.App {
++ {static} void main(String[])
+}
+@enduml

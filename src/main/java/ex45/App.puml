@@ -1,0 +1,5 @@
+@startuml
+class ex45.App {
++ {static} void main(String[])
+}
+@enduml
