@@ -1,0 +1,9 @@
+@startuml
+class ex46.App {
++ {static} void main(String[])
+}
+class ex46.Printers {
+~ {static} void printOutput(Map<String,Integer>)
+~ {static} void buildMap(Map<String,Integer>)
+}
+@enduml
